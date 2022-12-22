@@ -2,7 +2,7 @@
 
 ![search-keyword](https://user-images.githubusercontent.com/102936206/201240156-017813ca-c9eb-4b8c-98a6-6d043f95c4f2.gif)
 
-## 요구 사항
+## 🚀 기능 요구사항
 - 아래 사이트의 검색영역을 클론하기
     
     [한국임상정보](https://clinicaltrialskorea.com/)
